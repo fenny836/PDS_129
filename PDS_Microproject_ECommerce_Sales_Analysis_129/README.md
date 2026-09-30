@@ -2,7 +2,9 @@
 
 ## Student Details
 Name: Fenny Munjapara
+
 Enrollment No: 240760107129
+
 Class: Comp-32
 
 ## Subject
