@@ -1,0 +1,49 @@
+Order_ID,Order_Date,Customer_ID,Product,Category,Sub_Category,Quantity,Unit_Price,Discount_Percent,Sales,Profit,Payment_Mode,City,State
+ORD001,2025-01-05,CUST1001,Laptop,Electronics,Computers,1,55000,10,49500,7425,UPI,Surat,Gujarat
+ORD002,2025-01-08,CUST1002,Smartphone,Electronics,Mobiles,2,25000,5,47500,7125,Credit Card,Mumbai,Maharashtra
+ORD003,2025-01-15,CUST1003,T-Shirt,Fashion,Clothing,3,800,10,2160,432,UPI,Ahmedabad,Gujarat
+ORD004,2025-01-21,CUST1004,Office Chair,Home & Kitchen,Furniture,1,7500,5,7125,1425,Debit Card,Pune,Maharashtra
+ORD005,2025-02-03,CUST1005,Headphones,Electronics,Accessories,2,2500,10,4500,900,UPI,Surat,Gujarat
+ORD006,2025-02-11,CUST1006,Shoes,Fashion,Footwear,2,2500,5,4750,950,Cash on Delivery,Jaipur,Rajasthan
+ORD007,2025-02-18,CUST1007,Mixer Grinder,Home & Kitchen,Kitchen,1,4500,10,4050,810,UPI,Bengaluru,Karnataka
+ORD008,2025-02-25,CUST1008,Perfume,Beauty,Fragrance,2,1800,5,3420,684,Credit Card,Delhi,Delhi
+ORD009,2025-03-04,CUST1009,Tablet,Electronics,Computers,1,28000,10,25200,3780,Net Banking,Ahmedabad,Gujarat
+ORD010,2025-03-12,CUST1010,Jeans,Fashion,Clothing,2,1800,10,3240,648,UPI,Mumbai,Maharashtra
+ORD011,2025-03-19,CUST1011,Cookware Set,Home & Kitchen,Kitchen,1,3500,5,3325,665,Debit Card,Surat,Gujarat
+ORD012,2025-03-27,CUST1012,Makeup Kit,Beauty,Makeup,2,1500,10,2700,540,UPI,Pune,Maharashtra
+ORD013,2025-04-02,CUST1013,Smart Watch,Electronics,Wearables,2,5000,5,9500,1425,Credit Card,Bengaluru,Karnataka
+ORD014,2025-04-10,CUST1014,Jacket,Fashion,Clothing,1,3500,15,2975,595,Cash on Delivery,Jaipur,Rajasthan
+ORD015,2025-04-17,CUST1015,Bedsheet,Home & Kitchen,Home Decor,3,1200,10,3240,648,UPI,Surat,Gujarat
+ORD016,2025-04-24,CUST1016,Shampoo,Beauty,Haircare,4,500,5,1900,380,UPI,Delhi,Delhi
+ORD017,2025-05-03,CUST1017,Laptop,Electronics,Computers,1,65000,5,61750,9262.5,Credit Card,Mumbai,Maharashtra
+ORD018,2025-05-11,CUST1018,Backpack,Fashion,Accessories,2,1800,10,3240,648,UPI,Ahmedabad,Gujarat
+ORD019,2025-05-18,CUST1019,Table Lamp,Home & Kitchen,Home Decor,2,1200,5,2280,456,Debit Card,Surat,Gujarat
+ORD020,2025-05-26,CUST1020,Moisturizer,Beauty,Skincare,3,600,10,1620,324,UPI,Pune,Maharashtra
+ORD021,2025-06-04,CUST1021,Smartphone,Electronics,Mobiles,1,40000,10,36000,5400,Credit Card,Bengaluru,Karnataka
+ORD022,2025-06-12,CUST1022,Shoes,Fashion,Footwear,3,3000,5,8550,1710,UPI,Surat,Gujarat
+ORD023,2025-06-19,CUST1023,Office Chair,Home & Kitchen,Furniture,2,6500,10,11700,2340,Net Banking,Mumbai,Maharashtra
+ORD024,2025-06-28,CUST1024,Face Wash,Beauty,Skincare,5,400,5,1900,380,Cash on Delivery,Jaipur,Rajasthan
+ORD025,2025-07-05,CUST1025,Tablet,Electronics,Computers,2,22000,10,39600,5940,UPI,Ahmedabad,Gujarat
+ORD026,2025-07-13,CUST1026,T-Shirt,Fashion,Clothing,5,900,10,4050,810,UPI,Delhi,Delhi
+ORD027,2025-07-20,CUST1027,Mixer Grinder,Home & Kitchen,Kitchen,2,5000,5,9500,1900,Credit Card,Pune,Maharashtra
+ORD028,2025-07-28,CUST1028,Perfume,Beauty,Fragrance,3,2200,10,5940,1188,UPI,Surat,Gujarat
+ORD029,2025-08-04,CUST1029,Headphones,Electronics,Accessories,4,3000,5,11400,2280,Debit Card,Mumbai,Maharashtra
+ORD030,2025-08-12,CUST1030,Jeans,Fashion,Clothing,3,2000,10,5400,1080,UPI,Bengaluru,Karnataka
+ORD031,2025-08-19,CUST1031,Cookware Set,Home & Kitchen,Kitchen,2,4000,5,7600,1520,Credit Card,Ahmedabad,Gujarat
+ORD032,2025-08-27,CUST1032,Makeup Kit,Beauty,Makeup,3,1800,10,4860,972,UPI,Surat,Gujarat
+ORD033,2025-09-05,CUST1033,Laptop,Electronics,Computers,1,60000,10,54000,8100,Credit Card,Pune,Maharashtra
+ORD034,2025-09-13,CUST1034,Jacket,Fashion,Clothing,2,4000,5,7600,1520,Cash on Delivery,Jaipur,Rajasthan
+ORD035,2025-09-20,CUST1035,Bedsheet,Home & Kitchen,Home Decor,4,1500,10,5400,1080,UPI,Delhi,Delhi
+ORD036,2025-09-28,CUST1036,Shampoo,Beauty,Haircare,5,600,5,2850,570,UPI,Surat,Gujarat
+ORD037,2025-10-06,CUST1037,Smart Watch,Electronics,Wearables,2,6000,10,10800,1620,Credit Card,Mumbai,Maharashtra
+ORD038,2025-10-14,CUST1038,Shoes,Fashion,Footwear,2,3500,5,6650,1330,UPI,Ahmedabad,Gujarat
+ORD039,2025-10-21,CUST1039,Office Chair,Home & Kitchen,Furniture,1,9000,10,8100,1620,Debit Card,Bengaluru,Karnataka
+ORD040,2025-10-29,CUST1040,Perfume,Beauty,Fragrance,4,2000,5,7600,1520,UPI,Surat,Gujarat
+ORD041,2025-11-05,CUST1041,Smartphone,Electronics,Mobiles,2,35000,10,63000,9450,Credit Card,Mumbai,Maharashtra
+ORD042,2025-11-13,CUST1042,T-Shirt,Fashion,Clothing,4,1000,5,3800,760,UPI,Delhi,Delhi
+ORD043,2025-11-20,CUST1043,Mixer Grinder,Home & Kitchen,Kitchen,2,5500,10,9900,1980,Net Banking,Surat,Gujarat
+ORD044,2025-11-28,CUST1044,Moisturizer,Beauty,Skincare,4,700,5,2660,532,UPI,Pune,Maharashtra
+ORD045,2025-12-06,CUST1045,Laptop,Electronics,Computers,1,70000,5,66500,9975,Credit Card,Bengaluru,Karnataka
+ORD046,2025-12-14,CUST1046,Jeans,Fashion,Clothing,3,2200,10,5940,1188,UPI,Ahmedabad,Gujarat
+ORD047,2025-12-21,CUST1047,Cookware Set,Home & Kitchen,Kitchen,2,4500,5,8550,1710,Debit Card,Surat,Gujarat
+ORD048,2025-12-28,CUST1048,Makeup Kit,Beauty,Makeup,3,2000,10,5400,1080,UPI,Jaipur,Rajasthan
